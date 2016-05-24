@@ -1,6 +1,6 @@
 name: Silkworm Sound
 favicon: null
-layout_spectrum: 0.504
+layout_spectrum: 0.73665
 typography_spectrum: 0.07444
 title: 'Silkworm Sound: recording studio in Durham, NC'
 cta:
@@ -22,8 +22,8 @@ color:
     - '#df5236'
     - '#3a4b1e'
     - '#452006'
-  brandStrength: 0.5
+  brandStrength: 0.1875
   lightness: 1
-  saturation: 0.6875
+  saturation: 0.125
   rhythmicContrast: 0.75
 purpose: []
