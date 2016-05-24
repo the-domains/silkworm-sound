@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Silkworm Sound]]></title>
         <description><![CDATA[Silkworm Sound]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/silkworm-sound/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 May 2016 18:46:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 24 May 2016 19:24:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/silkworm-sound/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce0a0a6f-fa87-4c74-8b0c-a278c72268e5.jpg">]]></description>
-            <link>undefinedaa983659-474e-4d1c-8acb-322277574a7d/index.html</link>
+            <link>https://thegrid.ai/silkworm-sound/aa983659-474e-4d1c-8acb-322277574a7d/index.html</link>
             <guid isPermaLink="false">aa983659-474e-4d1c-8acb-322277574a7d</guid>
             <pubDate>Tue, 24 May 2016 18:46:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@dalebakerdrummer tracking drums for a @ross.j.adams record! #silkwormsound]]></title>
+            <description><![CDATA[<article><h1>@dalebakerdrummer tracking drums for a @ross.j.adams record! #silkwormsound</h1><p>Got some some really great drum sounds this weekend </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/800780eeb8dc0998656bd3b5650dbc4395718991.jpg"></article>]]></description>
+            <link>https://www.instagram.com/p/BFuwho_FWCb/?taken-by=silkymcfly</link>
+            <guid isPermaLink="false">beabeda1-9bd4-402a-a6ca-16e9cbd87634</guid>
+            <pubDate>Tue, 24 May 2016 19:24:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
