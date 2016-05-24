@@ -1,0 +1,28 @@
+name: Silkworm Sound
+favicon: null
+layout_spectrum: 0.3573700098786503
+typography_spectrum: 0.2425714845303446
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6168396999128163
+  lightness: 0.6296983060892671
+  saturation: 0.3803087424021214
+  rhythmicContrast: 0.8884833178017288
+purpose: []
